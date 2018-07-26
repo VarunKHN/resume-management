@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+* { 
+	margin : 0; 
+	padding	: 0; 
+}
+
+#wrapper{
+	margin:0px auto;	
+	width:1000px;
+	height:auto;
+}
+
+h1{
+	text-align:center;	
+}
